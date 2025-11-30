@@ -1,4 +1,4 @@
-package cn.bugstack.common;
+package cn.bugstack.common.wexin;
 
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.core.util.QuickWriter;

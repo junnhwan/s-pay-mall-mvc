@@ -1,8 +1,8 @@
 package cn.bugstack.controller;
 
-import cn.bugstack.common.MessageTextEntity;
-import cn.bugstack.common.SignatureUtil;
-import cn.bugstack.common.XmlUtil;
+import cn.bugstack.common.wexin.MessageTextEntity;
+import cn.bugstack.common.wexin.SignatureUtil;
+import cn.bugstack.common.wexin.XmlUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Value;

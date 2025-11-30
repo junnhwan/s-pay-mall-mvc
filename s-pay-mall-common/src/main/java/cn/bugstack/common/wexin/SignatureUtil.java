@@ -1,4 +1,4 @@
-package cn.bugstack.common;
+package cn.bugstack.common.wexin;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
